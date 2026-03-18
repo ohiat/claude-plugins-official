@@ -471,6 +471,20 @@
       "source": "./plugins/skill-creator",
       "category": "development",
       "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/skill-creator"
+    },
+    {
+      "name": "linear",
+      "description": "Linear issue tracking integration. Create issues, manage projects, update statuses, search across workspaces, and streamline your software development workflow with Linear's modern issue tracker.",
+      "category": "productivity",
+      "source": "./external_plugins/linear",
+      "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/linear"
+    },
+    {
+      "name": "github",
+      "description": "Official GitHub MCP server for repository management. Create issues, manage pull requests, review code, search repositories, and interact with GitHub's full API directly from Claude Code.",
+      "category": "productivity",
+      "source": "./external_plugins/github",
+      "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/github"
     }
   ]
 }
